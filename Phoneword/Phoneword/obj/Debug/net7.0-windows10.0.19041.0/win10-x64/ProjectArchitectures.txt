@@ -1,0 +1,1 @@
+C:\Users\henry\Documents\Xamarin-practice\Phoneword\Phoneword\Phoneword.csproj;x64
